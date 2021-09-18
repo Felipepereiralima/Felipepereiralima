@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Lima 👋
 
-- 🌱 Eu estou atualmente estudando Java.
+- 🌱 Eu estou atualmente estudando Java/Python.
 - 📫 Como chegar até mim: Felipeplima@live.com.
 - 😄 Pronouns: Ele/He.
 
@@ -10,6 +10,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepereiralima&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Felipe-yoda" height="128" width="128" src="https://c.tenor.com/udYl1CJgloUAAAAd/yoda-star-wars.gif">
 </div>
