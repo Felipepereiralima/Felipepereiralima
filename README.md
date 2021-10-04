@@ -2,7 +2,6 @@
   ##
 - 🌱 Eu estou atualmente estudando Java/Python;
 - 📚 Estudante na Generation Brasil;
-- 📫 Como chegar até mim: Felipeplima@live.com;
 - 😄 Pronouns: Ele/He.
 
 <div>
