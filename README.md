@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepereiralima&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block"><br>
-  <h3>Tecnologias utilizadas</h3>
+  <h3>Tecnologias Utilizadas</h3>
   <img align="center" title="Python" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Java" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
