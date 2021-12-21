@@ -10,6 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipepereiralima&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block"><br>
+  <h3>Tecnologias utilizadas</h3>
   <img align="center" title="Python" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Java" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -28,7 +29,7 @@
   ##
   
 <div>
-  <h1>Minhas Redes</h1>
+  <h3>Minhas Redes</h3>
   <a href = "mailto:felipeplima@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/felipe-pereira-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
