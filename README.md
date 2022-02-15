@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Lima 👋
   ##
 - 🌱 Eu estou atualmente estudando Java/Python/MySQL/Spring Boot;
-- 📚 Estudante na Generation Brasil;
+- 📚 Conclui o curso de Desenvolvedor Web Java Jr na Generation Brasil;
 - 😄 Pronouns: Ele/He.
 
 <div>
